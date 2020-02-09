@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Marie Perrot-Dockès</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Oct 2019 16:40:37 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Coline Trichot</title>
+      <link>/authors/coline-trichot/</link>
+      <pubDate>Wed, 16 Oct 2019 16:40:37 +0200</pubDate>
+      <guid>/authors/coline-trichot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>et al</title>
+      <link>/authors/et-al/</link>
+      <pubDate>Wed, 16 Oct 2019 16:40:37 +0200</pubDate>
+      <guid>/authors/et-al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marie Perrot-Dockes</title>
+      <link>/authors/marie-perrot-dockes/</link>
+      <pubDate>Wed, 16 Oct 2019 16:40:37 +0200</pubDate>
+      <guid>/authors/marie-perrot-dockes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximilien Grandclaudon</title>
+      <link>/authors/maximilien-grandclaudon/</link>
+      <pubDate>Wed, 16 Oct 2019 16:40:37 +0200</pubDate>
+      <guid>/authors/maximilien-grandclaudon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lilith Faucheux</title>
+      <link>/authors/lilith-faucheux/</link>
+      <pubDate>Mon, 02 Sep 2019 16:40:37 +0200</pubDate>
+      <guid>/authors/lilith-faucheux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philémon Sirven, F Berger, A S Hamy, V Fourchotte, Anne Vincent-Salomon, Fatima Mechta-Grigoriou, Fabien Reyal, Alix Scholer-Dahirel, Maude Guillot-Delost, Vassili Soumelis</title>
+      <link>/authors/philemon-sirven-f-berger-a-s-hamy-v-fourchotte-anne-vincent-salomon-fatima-mechta-grigoriou-fabien-reyal-alix-scholer-dahirel-maude-guillot-delost-vassili-soumelis/</link>
+      <pubDate>Mon, 02 Sep 2019 16:40:37 +0200</pubDate>
+      <guid>/authors/philemon-sirven-f-berger-a-s-hamy-v-fourchotte-anne-vincent-salomon-fatima-mechta-grigoriou-fabien-reyal-alix-scholer-dahirel-maude-guillot-delost-vassili-soumelis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Céline Lévy-Leduc</title>
+      <link>/authors/celine-levy-leduc/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>/authors/celine-levy-leduc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Chiquet</title>
+      <link>/authors/julien-chiquet/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/authors/julien-chiquet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laure Sansonnet</title>
+      <link>/authors/laure-sansonnet/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/authors/laure-sansonnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margaux Brégère</title>
+      <link>/authors/margaux-bregere/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/authors/margaux-bregere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marie-Pierre Etienne</title>
+      <link>/authors/marie-pierre-etienne/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/authors/marie-pierre-etienne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stéphane Robin</title>
+      <link>/authors/stephane-robin/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/authors/stephane-robin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m  a post-doc in statistics.
+I&amp;rsquo;ve done a PhD in AgroParisTech supervised by Céline Lévy-Leduc, Julien Chiquet and Laure Sansonnet.
+I&amp;rsquo;m currently in a postdoctoral position, between Sorbonne Université and Toulouse institut of mathematics, mentored by Etienne Roquain and Pierre Neuvial.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Research:&lt;/strong&gt; My PhD titled &lt;em&gt;Regularized methods to study multivariate data in high dimensional settings : theory and applications&lt;/em&gt; aims at selecting variable of interest in the multivariate linear model when the number of responses is much higher than the sample size.
+My postdoc aims at finding upper bounds of the number of false discoveries for all the possible sets of selected variables in a multiple testing framework.
+These upper bounds have to be valid with high probabilities.
+Most of the exiting bounds are too conservative and a crucial challenge is to build new post hoc bounds with better
+performances.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teaching:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During my PhD I have given 192 hours of directed works on statistical inference and linear modeling. The students were the first and second years of the engieneering school AgroParisTech.&lt;/li&gt;
+&lt;li&gt;During my postdoc I&amp;rsquo;ve given a 30 hours course on probabilities and statistics to the Master students of Polytech school of Paris.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Association&lt;/strong&gt; As a member of the &lt;em&gt;young group&lt;/em&gt; of the French statistical society I co-organised a meeting of the young European statistician, a session of the &lt;em&gt;JDS&lt;/em&gt; (French statistical days) 2019, and one session and two workshops for the &lt;em&gt;JDS&lt;/em&gt; 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

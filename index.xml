@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie Perrot-Dockès</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marie Perrot-Dockès</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 15:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marie Perrot-Dockès</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title> Nouvelles bornes post hoc dans un cadre structuré</title>
+      <link>/talk/ihp/</link>
+      <pubDate>Sat, 04 Apr 2020 15:00:00 +0200</pubDate>
+      <guid>/talk/ihp/</guid>
+      <description>&lt;p&gt;Les procédures classique de test multiples utilisent un seuil $\alpha$ définit à l’avance
+et rejettent un certain nombre d’hypothèse en fonction de ce seuil sans laisser de liberté à
+l’utilisateur sur le choix de ces hypothèses. Pour palier ces problèmes Goeman and Solari
+(2011) et Blanchard et al. (2020) proposent des bornes post hoc. Dans ce cadre l’utilisateur peut choisir librement l’ensemble des hypothèses qu’il rejette et ce potentiellement
+une fois l’étude effectuée et au vu des données. Les bornes post hoc vont donner une borne
+supérieure du nombre de faux positifs dans l’ensemble des hypothèses choisi par l’utilisateur, tout en conservant des garanties statistique quelque soit l’ensemble sélectionné.
+Dans cette présentattion nous verrons une procédure de contrôle post hoc en test multiples dans le cadres des
+modèles de Markov cachés. La borne proposée utilise la loi a posteriori de la somme des
+états cachés. Cette borne sera ensuite comparée aux bornes classiques par des expérience
+numériques. L’objectif de cette étude est de proposer des bornes post hoc valident et le
+moins conservatives possible pour étudier des phénomènes génétique, comme le nombre de
+copies d’ADN le long du génome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Post hoc false positive control in Hiden Markov Models  for spatially structured hypotheses </title>
+      <link>/talk/imt/</link>
+      <pubDate>Tue, 31 Mar 2020 10:30:00 +0200</pubDate>
+      <guid>/talk/imt/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using 
+&lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;
+. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Borne post hoc dans des cadres structurées en utilisant les modèles de Markov cachés</title>
+      <link>/talk/rochebrune/</link>
+      <pubDate>Mon, 23 Mar 2020 10:30:00 +0100</pubDate>
+      <guid>/talk/rochebrune/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using 
+&lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;
+. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Introduction to the post hoc false positive control</title>
+      <link>/talk/gtt/</link>
+      <pubDate>Fri, 06 Mar 2020 17:00:00 +0100</pubDate>
+      <guid>/talk/gtt/</guid>
+      <description>&lt;p&gt;In this presentation we study general linear model (multivariate linear
+model) in high dimensional settings. We propose a novel variable selection approach
+in the framework of multivariate linear models taking into account the dependence
+that may exist between the responses. It consists in estimating beforehand the co-
+variance matrix of the responses and to plug this estimator in a Lasso criterion, in
+order to obtain a sparse estimator of the coefficient matrix. The properties of our ap-
+proach are investigated both from a theoretical and a numerical point of view. More
+precisely, we give general conditions that the estimators of the covariance matrix and
+its inverse have to satisfy in order to recover the positions of the zero and non-zero
+entries of the coefficient matrix when the number of responses is not fixed and can
+tend to infinity. We also propose novel, efficient and fully data-driven approaches
+for estimating Toeplitz and large block structured sparse covariance matrices in the
+case where the number of variables is much larger than the number of samples wi-
+thout limiting ourselves to block diagonal matrices. These approaches are applied
+to different biological issues in metabolomics, in proteomics and in immunology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Méthodes régularisées pour l’analyse de données multivariées en grande dimension : théorie et applications.</title>
+      <link>/talk/miat/</link>
+      <pubDate>Fri, 10 Jan 2020 10:30:00 +0100</pubDate>
+      <guid>/talk/miat/</guid>
+      <description>&lt;p&gt;In this presentation we study general linear model (multivariate linear
+model) in high dimensional settings. We propose a novel variable selection approach
+in the framework of multivariate linear models taking into account the dependence
+that may exist between the responses. It consists in estimating beforehand the co-
+variance matrix of the responses and to plug this estimator in a Lasso criterion, in
+order to obtain a sparse estimator of the coefficient matrix. The properties of our ap-
+proach are investigated both from a theoretical and a numerical point of view. More
+precisely, we give general conditions that the estimators of the covariance matrix and
+its inverse have to satisfy in order to recover the positions of the zero and non-zero
+entries of the coefficient matrix when the number of responses is not fixed and can
+tend to infinity. We also propose novel, efficient and fully data-driven approaches
+for estimating Toeplitz and large block structured sparse covariance matrices in the
+case where the number of variables is much larger than the number of samples wi-
+thout limiting ourselves to block diagonal matrices. These approaches are applied
+to different biological issues in metabolomics, in proteomics and in immunology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Méthodes régularisées pour l’analyse de données multivariées en grande dimension : théorie et applications.</title>
+      <link>/talk/irmar/</link>
+      <pubDate>Fri, 22 Nov 2019 11:00:00 +0100</pubDate>
+      <guid>/talk/irmar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quantitative Multivariate Model of Human Dendritic Cell-T Helper Cell Communication</title>
+      <link>/publication/tmod/</link>
+      <pubDate>Wed, 16 Oct 2019 16:40:37 +0200</pubDate>
+      <guid>/publication/tmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized methods to study multivariate data in high dimensional settings: theory and applications.</title>
+      <link>/publication/these/</link>
+      <pubDate>Tue, 08 Oct 2019 16:40:37 +0200</pubDate>
+      <guid>/publication/these/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multivariate Th17 metagene for prognostic stratification in T cell non-inflamed triple negative breast cancer</title>
+      <link>/publication/pic/</link>
+      <pubDate>Mon, 02 Sep 2019 16:40:37 +0200</pubDate>
+      <guid>/publication/pic/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimation of large block covariance matrices: Application to the analysis of gene expression data</title>
+      <link>/publication/block/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A multivariate variable selection approach for analyzing LC-MS metabolomics data</title>
+      <link>/publication/metabolomic/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/publication/metabolomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable selection in multivariate linear models with high-dimensional covariance matrix estimation</title>
+      <link>/publication/jmva/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/publication/jmva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

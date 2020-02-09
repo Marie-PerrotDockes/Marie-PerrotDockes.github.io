@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Margaux Brégère | Marie Perrot-Dockès</title>
+    <link>/authors/margaux-bregere/</link>
+      <atom:link href="/authors/margaux-bregere/index.xml" rel="self" type="application/rss+xml" />
+    <description>Margaux Brégère</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jun 2018 16:40:37 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Margaux Brégère</title>
+      <link>/authors/margaux-bregere/</link>
+    </image>
+    
+    <item>
+      <title> A multivariate variable selection approach for analyzing LC-MS metabolomics data</title>
+      <link>/publication/metabolomic/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/publication/metabolomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

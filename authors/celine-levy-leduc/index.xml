@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Céline Lévy-Leduc | Marie Perrot-Dockès</title>
+    <link>/authors/celine-levy-leduc/</link>
+      <atom:link href="/authors/celine-levy-leduc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Céline Lévy-Leduc</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Céline Lévy-Leduc</title>
+      <link>/authors/celine-levy-leduc/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of large block covariance matrices: Application to the analysis of gene expression data</title>
+      <link>/publication/block/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A multivariate variable selection approach for analyzing LC-MS metabolomics data</title>
+      <link>/publication/metabolomic/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/publication/metabolomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable selection in multivariate linear models with high-dimensional covariance matrix estimation</title>
+      <link>/publication/jmva/</link>
+      <pubDate>Wed, 13 Jun 2018 16:40:37 +0200</pubDate>
+      <guid>/publication/jmva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
