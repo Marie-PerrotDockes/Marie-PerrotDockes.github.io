@@ -113,15 +113,15 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m  a post-doc in statistics.
+      <description>&lt;p&gt;I&amp;rsquo;m  currently an assistant professor  at the MAP5 laboratory and the STID departement of IUT de Paris, which is part of Université de Paris.
 I&amp;rsquo;ve done a PhD in AgroParisTech supervised by Céline Lévy-Leduc, Julien Chiquet and Laure Sansonnet.
-I&amp;rsquo;m currently in a postdoctoral position, between Sorbonne Université and Toulouse institut of mathematics, mentored by Etienne Roquain and Pierre Neuvial.&lt;/p&gt;
+After thtat, I was in  a postdoctoral position, between Sorbonne Université and Toulouse institut of mathematics, mentored by Etienne Roquain and Pierre Neuvial.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Research:&lt;/strong&gt; My PhD titled &lt;em&gt;Regularized methods to study multivariate data in high dimensional settings : theory and applications&lt;/em&gt; aims at selecting variable of interest in the multivariate linear model when the number of responses is much higher than the sample size.
 My postdoc aims at finding upper bounds of the number of false discoveries for all the possible sets of selected variables in a multiple testing framework.
 These upper bounds have to be valid with high probabilities.
-Most of the exiting bounds are too conservative and a crucial challenge is to build new post hoc bounds with better
+Most of the existing bounds are too conservative and a crucial challenge is to build new post hoc bounds with better
 performances.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
